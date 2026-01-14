@@ -58,6 +58,8 @@ I design and deploy intelligent robotic systems—from vision to motion planning
   <img src="https://img.shields.io/github/followers/Hungquan5?label=Followers&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Hungquan5?label=Profile%20Stars&style=for-the-badge" alt="Profile Stars" />
   <img src="https://img.shields.io/github/last-commit/Hungquan5/Hungquan5?label=Last%20commit&style=for-the-badge" alt="Last commit" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hungquan5&theme=radical&hide_border=true" height="150" alt="Profile details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hungquan5&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Contribution activity graph" />
 </p>
 <!-- Optional: if you self-host stats, re-enable cards here with your own endpoints -->
 
