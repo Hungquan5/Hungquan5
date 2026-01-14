@@ -65,13 +65,6 @@ I design and deploy intelligent robotic systems—from vision to motion planning
 
 ---
 
-## 🎯 Quick “Impact” Facts
-- Reduced inference latency on Jetson via **TensorRT + batching**
-- Built **semantic video retrieval** with keyframe caching for near-real-time UX
-- Orchestrated **robot deployments** with Docker/K8s and health checks
-
----
-
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hquan.a5@gmail.com)
 
