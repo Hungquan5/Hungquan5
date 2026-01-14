@@ -1,47 +1,48 @@
-# 👋 Hi, I'm Quan Nguyen Hung — just call me Tisokura
+# 🤖 Quan Nguyen Hung — Tisokura
+> Building intelligent systems at the intersection of **AI, Robotics, and scalable infrastructure**
 
-> **Developer with expertise in AI and Robotics**
-
-I'm a passionate software developer focused on building high-quality AI frameworks and robotic systems. I enjoy crafting intelligent applications, working with scalable infrastructure, and exploring cutting-edge technologies in deep learning, automation, and computer vision.
-
----
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-ROS-informational?style=flat&logo=ros&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+I craft AI frameworks and robotic systems that are reliable, efficient, and production-ready. My work spans deep learning, computer vision, real-time control, and cloud-native deployments for robots at the edge.
 
 ---
 
-## 📈 GitHub Stats
+## 🔭 What I’m exploring
+- **Embodied AI**: perception → planning → control loops with ROS and Jetson-class hardware
+- **Vision & Multimodal**: efficient inference, keyframe retrieval, and semantic search
+- **Edge/Cloud Robotics**: containerized deployments (Docker/K8s) with observability baked in
+- **MLOps for Robots**: reproducible pipelines, model versioning, and on-device A/B testing
 
-[![Tisokura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hungquan5&show_icons=true&theme=radical)](https://github.com/Hungquan5)
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript/TypeScript
+- **AI/ML**: PyTorch, OpenCV, ONNX Runtime, TensorRT (Jetson), Transformers
+- **Robotics**: ROS/ROS2, sensor fusion, motion planning, realtime control
+- **Infrastructure**: Docker, Kubernetes, AWS, CI/CD (GitHub Actions), Grafana/Prometheus
+- **Data/Storage**: SQLite, Postgres, object storage; vector search (FAISS/ANN)
 
 ---
 
 ## 🚀 Featured Projects
+### [AI Video Retrieval System](https://github.com/Hungquan5/AIChallenge2025_Frontend)
+- Edge-enhanced video keyframe retrieval with semantic similarity search
+- Local keyframe caching for low-latency responses
+- Stack: Python, OpenCV, Flask, client-side DBs
 
-### [AI Video Retrieval System]([https://github.com/Hungquan5](https://github.com/Hungquan5/AIChallenge2025_Frontend)) <!-- Replace with actual repo URL -->
-* Edge-enhanced system for fast video keyframe retrieval
-* Utilizes local keyframe caching and semantic similarity search
-* Built with Python, OpenCV, Flask, and client-side databases
-
-### [Robot Navigation Framework]([https://github.com/Hungquan5](https://github.com/Hungquan5/SpotMicro-Inspired-Quadruped-Robot-AI-Club-UIT)) <!-- Replace with actual repo URL -->
-* Modular robotic control architecture with ROS integration
-* Real-time sensor fusion and motion planning
-* Deployed on Jetson Nano with Docker + Kubernetes
+### [Robot Navigation Framework](https://github.com/Hungquan5/SpotMicro-Inspired-Quadruped-Robot-AI-Club-UIT)
+- Modular control architecture with ROS integration
+- Real-time sensor fusion and motion planning
+- Deployed on Jetson Nano with Docker + Kubernetes
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
+[![Tisokura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hungquan5&show_icons=true&theme=radical)](https://github.com/Hungquan5)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hquan.a5@gmail.com) <!-- Replace with your actual email -->
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hquan.a5@gmail.com)
 
 ---
 
 ⭐️ From [Hungquan5](https://github.com/Hungquan5)
-
