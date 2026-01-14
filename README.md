@@ -1,31 +1,41 @@
 # 🤖 Quan Nguyen Hung — Tisokura
-> Building intelligent systems at the intersection of **AI, Robotics, and scalable infrastructure**
+> AI & Robotics engineer | building perception → planning → control systems that ship
 
-I craft AI frameworks and robotic systems that are reliable, efficient, and production-ready. My work spans deep learning, computer vision, real-time control, and cloud-native deployments for robots at the edge.
-
----
-
-## 🔭 What I’m exploring
-- **Embodied AI**: perception → planning → control loops with ROS and Jetson-class hardware
-- **Vision & Multimodal**: efficient inference, keyframe retrieval, and semantic search
-- **Edge/Cloud Robotics**: containerized deployments (Docker/K8s) with observability baked in
-- **MLOps for Robots**: reproducible pipelines, model versioning, and on-device A/B testing
+I design and deploy intelligent robotic systems—from vision to motion planning to cloud/edge orchestration. I care about reliability, latency, and making robots that understand and act in the real world.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript/TypeScript
-- **AI/ML**: PyTorch, OpenCV, ONNX Runtime, TensorRT (Jetson), Transformers
-- **Robotics**: ROS/ROS2, sensor fusion, motion planning, realtime control
-- **Infrastructure**: Docker, Kubernetes, AWS, CI/CD (GitHub Actions), Grafana/Prometheus
-- **Data/Storage**: SQLite, Postgres, object storage; vector search (FAISS/ANN)
+## 🛰️ Now
+- Building: **embodied AI pipelines** (perception → semantic search → control)
+- Exploring: **ROS2 + Jetson** optimizations (TensorRT, ONNX Runtime)
+- Improving: **robot MLOps** (reproducible builds, A/B on-device, observability)
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ AI & Robotics Toolbox
+- **Languages**: Python, JavaScript/TypeScript  
+- **AI/ML**: PyTorch, OpenCV, TensorRT (Jetson), ONNX Runtime, Transformers  
+- **Robotics**: ROS/ROS2, sensor fusion, SLAM basics, motion planning, realtime control  
+- **Infra**: Docker, Kubernetes, AWS, GitHub Actions CI/CD, Grafana/Prometheus  
+- **Data**: Postgres/SQLite, object storage, vector search (FAISS/ANN)  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jetson-Nano-76B900?logo=nvidia&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Builds
 ### [AI Video Retrieval System](https://github.com/Hungquan5/AIChallenge2025_Frontend)
-- Edge-enhanced video keyframe retrieval with semantic similarity search
-- Local keyframe caching for low-latency responses
+- Edge-enhanced keyframe retrieval with semantic similarity search
+- Local keyframe caching for low-latency answers
 - Stack: Python, OpenCV, Flask, client-side DBs
 
 ### [Robot Navigation Framework](https://github.com/Hungquan5/SpotMicro-Inspired-Quadruped-Robot-AI-Club-UIT)
@@ -35,8 +45,30 @@ I craft AI frameworks and robotic systems that are reliable, efficient, and prod
 
 ---
 
-## 📊 GitHub Stats
-[![Tisokura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hungquan5&show_icons=true&theme=radical)](https://github.com/Hungquan5)
+## 🛰️ Robotics Highlights
+- 🧭 **Perception → Planning → Control** loops tuned for edge devices
+- 🧠 **Model optimization**: quantization/TensorRT for FPS gains on Jetson
+- 🛰️ **Robustness**: sensor fusion and watchdogs for real-time control
+- 📡 **Ops**: observability + CI/CD for robotic deployments (GitHub Actions + K8s)
+
+---
+
+## 📊 Status & Cards
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hungquan5&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungquan5&layout=compact&theme=radical" height="150" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Hungquan5&theme=radical" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hungquan5&theme=radical" height="150" />
+</p>
+
+---
+
+## 🎯 Quick “Impact” Facts
+- Reduced inference latency on Jetson via **TensorRT + batching**
+- Built **semantic video retrieval** with keyframe caching for near-real-time UX
+- Orchestrated **robot deployments** with Docker/K8s and health checks
 
 ---
 
